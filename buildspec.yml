@@ -19,5 +19,7 @@ artifacts:
     - public/**/*
     - src/**/*
     - package.json
+    - package-lock.json
+    - buildspec.yml
     - appspec.yml
     - scripts/**/
